@@ -1,12 +1,12 @@
 # Social-distance-detection
-### You can find the video with full expanation of algrithm & code here: (https://youtu.be/PTLZnE6W2tw)
+
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in (https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
 * Download it & move to yolo-coco folder
 
-# For CPU:
 
-## To run this code in your terminal:
+
+## steps:
 * ***Open your terminal**
 * ***Change directory to where you have downloaded this code***
 * ***Install python3 if you have not, if installed already then it's ok!***

@@ -2,7 +2,7 @@
 
 output :
 
-(https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in (https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
 * Download it & move to yolo-coco folder
